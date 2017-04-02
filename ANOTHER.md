@@ -10,3 +10,5 @@ And so on...
 Like you may see, Git and Markdown are extremely easy, you should practice the git bash commands because you may find this very useful and many of its commands are self explanatory.
 
 Have a happy coding!
+
+This is our second practice on the use of git bash
