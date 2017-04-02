@@ -1,6 +1,7 @@
 * Avro
 * Harrier
 * Hornet
+
 ##Editing a .md MARKDOWN File
 ### Johns Hopkins University Specilization
 The courses comprising the Data Science Specialization are:
@@ -12,3 +13,4 @@ The courses comprising the Data Science Specialization are:
 * Reproducible Research
 * Statistical Inference
 * Regression Models
+Git is easy. Git is fun. Thanks Linus!
