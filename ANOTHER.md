@@ -7,7 +7,7 @@ When you open this file on github, the text will be presented in a nice and orde
 
 And so on...
 
-Like you may see, Git and Markdown are extremely easy, you should practice the git bash commands because you may find this very useful and many of its commands are self explanatory.
+Like you may see, Git and Markdown are extremely easy, you should practice the git bash commands because you may find this very useful and many of them are self explanatory.
 
 Have a happy coding!
 
